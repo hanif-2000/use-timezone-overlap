@@ -1,0 +1,24 @@
+{
+  "name": "use-timezone-overlap",
+  "version": "0.1.0",
+  "description": "React / React Native hook that shows your working hours in the visitor's time zone — 'online now', today's window in their local time, and how many hours your days overlap. Handles DST, half-hour offsets and overnight shifts.",
+  "type": "module",
+  "exports": {
+    ".": "./src/index.js",
+    "./core": "./src/core.js"
+  },
+  "main": "./src/index.js",
+  "files": ["src", "README.md", "LICENSE"],
+  "sideEffects": false,
+  "scripts": { "test": "node --test" },
+  "engines": { "node": ">=18" },
+  "peerDependencies": { "react": ">=16.8" },
+  "peerDependenciesMeta": { "react": { "optional": true } },
+  "devDependencies": { "react": "18.3.1", "react-dom": "18.3.1" },
+  "keywords": ["react", "react-native", "hook", "timezone", "time-zone", "working-hours", "availability", "overlap", "intl", "dst", "freelancer", "remote"],
+  "author": "Hanif Mohammad (https://hanif-2000.github.io)",
+  "license": "MIT",
+  "repository": { "type": "git", "url": "git+https://github.com/hanif-2000/use-timezone-overlap.git" },
+  "bugs": { "url": "https://github.com/hanif-2000/use-timezone-overlap/issues" },
+  "homepage": "https://github.com/hanif-2000/use-timezone-overlap#readme"
+}
