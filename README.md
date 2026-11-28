@@ -1,4 +1,14 @@
 # use-timezone-overlap
+---
+
+> ### 💼 Built by Hanif Mohammad — React Native & full-stack developer
+> **Top Rated Plus on Upwork · 100% Job Success.** Need a React Native / Expo app built, fixed, or shipped reliably?
+>
+> **[→ Hire me on Upwork](https://www.upwork.com/freelancers/~01b46f78c173c3ba9b)**  ·  **[→ Portfolio](https://hanif-2000.github.io)**
+>
+> Found this tool useful? Please **⭐ the repo** or **[sponsor on GitHub ❤](https://github.com/sponsors/hanif-2000)** — it keeps these tools maintained.
+
+---
 
 A React / React Native hook that shows **your working hours in the visitor's time zone** — whether you're online now, today's window in their local time, and how many hours your working days overlap.
 
