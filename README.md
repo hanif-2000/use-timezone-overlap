@@ -118,6 +118,16 @@ Also exported from `use-timezone-overlap/core`: `offsetMinutes(date, timeZone)`,
 - Needs `Intl.DateTimeFormat` with time zone support — available in modern browsers and Node. On React Native, check that your JavaScript engine's `Intl` supports the `timeZone` option.
 - When rendering on the server, pass `now` and `viewerTimeZone` (the server doesn't know the visitor's zone) or render the hook only on the client.
 
+## Sponsors
+
+This tool is free and MIT-licensed. Sponsorship pays for keeping it up to date with new store rules and new React Native / Expo versions.
+
+**[Become the first sponsor →](https://github.com/sponsors/hanif-2000)**
+
+<!-- sponsors -->
+<!-- Sponsor names and logos are listed here. -->
+<!-- /sponsors -->
+
 ## License
 
 MIT © [Hanif Mohammad](https://hanif-2000.github.io)
