@@ -6,6 +6,8 @@
 >
 > **[→ Hire me on Upwork](https://www.upwork.com/freelancers/~01b46f78c173c3ba9b)**  ·  **[→ Portfolio](https://hanif-2000.github.io)**
 >
+> **🛠 Need it built for you?** I can add this (or any React / React Native feature) to your app at a fixed price. **[Message me on Upwork](https://www.upwork.com/freelancers/~01b46f78c173c3ba9b)**.
+>
 > Found this tool useful? Please **⭐ the repo** or **[sponsor on GitHub ❤](https://github.com/sponsors/hanif-2000)** — it keeps these tools maintained.
 
 ---
